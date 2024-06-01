@@ -1,3 +1,3 @@
-.padrão { background: rgb(219, 78, 68); }
-.claro { background: rgb(252, 90, 78); }
-.escuro { background: rgb(187, 66, 58)}
+.padrão { background: rgb(219, 78, 68); font-size: 37px; }
+.claro { background: rgb(252, 90, 78); font-size: 37px; }
+.escuro { background: rgb(187, 66, 58); font-size: 37px; }
