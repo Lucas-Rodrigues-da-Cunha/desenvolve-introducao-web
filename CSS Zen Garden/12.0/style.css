@@ -22,7 +22,7 @@ p {
 .summary {
     text-align: right;
 }
-.explanation p {
+.main p {
     line-height: 1.5;
 }
 abbr {
