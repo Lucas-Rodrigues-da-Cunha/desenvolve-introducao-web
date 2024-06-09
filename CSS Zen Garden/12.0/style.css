@@ -1,0 +1,30 @@
+html {
+    background-color: #485BFA;
+    color: #FA7B48;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.4rem;
+}
+h3 {
+    font-size: 1.2rem;
+}
+p {
+    text-indent: 1em;
+}
+.preamble {
+    text-align: right;
+}
+.explanation p {
+    line-height: 1.5;
+}
+abbr {
+    font-variant: small-caps;
+}
