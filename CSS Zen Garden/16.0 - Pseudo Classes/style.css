@@ -153,10 +153,10 @@ a:visited {
     font-family: sans-serif;
 }
 
-#Primeira-letra {
-    font-size: 3rem;
+.main p:first-of-type::first-letter {
+    font-size: 3em;
     font-family: serif;
-    display: inline-block;
+    float: left;
 }
 
 .design-selection li {
